@@ -1,0 +1,7 @@
+- Permite a los usuarios renegociar sus créditos existentes.
+- Integra servicios para manejar datos de clientes, ofertas de crédito y procesos de renegociación.
+- Implementa características de seguridad como TCO (probablemente autenticación de dos factores) y BePass.
+- Incluye componentes para mostrar mensajes de error, formularios de confirmación y generar documentos PDF de los acuerdos.
+- Maneja renegociaciones de créditos con y sin garantía.
+- Incorpora funciones de monitoreo y seguimiento para las diferentes etapas del proceso.
+- Maneja varios aspectos de la renegociación de créditos, incluyendo montos de deuda, cuotas, tasas de interés y otros detalles financieros, como se ve en los datos de prueba.

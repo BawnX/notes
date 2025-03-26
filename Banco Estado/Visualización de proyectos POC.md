@@ -1,0 +1,7 @@
+- https://observablehq.com/@d3/tree/2
+- angular 10
+- prettier airbnb
+- eslint
+- monolito
+- mongodb
+- pruebas unitarias base (conexiones)

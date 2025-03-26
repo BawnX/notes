@@ -1,0 +1,4 @@
+- Revisar que funcione en la app
+- Refactorizar Servicio
+- Revisar Logger
+- Revisar Codigos (throw)

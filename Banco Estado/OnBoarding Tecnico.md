@@ -8,7 +8,7 @@ includeLinks: true # Make headings clickable
 debugInConsole: false # Print debug info in Obsidian console
 ```
 # Flujo de requerimiento
-![[Pasted image 20240923112444.png]]\
+![[Pasted image 20240923112444.png]]
 # Stack tecnológico
 Tener en cuenta que para el backend se utiliza Logger-bech el cual mediante un xtrackid y
 código sesión permite pintar el log y darle un tipo, para la obtención de trazas. Estos logs, se pueden obtener desde Kubernetes pero tienen un tiempo máximo de duración de 7 días. En caso que ya no exista el log en kubernetes, existe la herramienta llamada “Elastic Search”. Esta herramienta almacena toda la información histórica. También se utiliza CloudWatch

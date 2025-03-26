@@ -1,0 +1,7 @@
+- 1 Problemática
+- 2 Explicar las bondades de usar Biometría
+- 3 Target de Clientes para quien lo estamos haciendo: Con imágenes
+- 4 Glosario términos: score/proof of life
+- 5 Especificaciones técnicas: angular 18 con node 20
+- 6 Funcionamiento del proceso: Explicar como compara las 3 fuentes de información rostro, carnet y registro civil Innovatrics (Diagrama Arquitectura - Preguntar)
+- 7 Demo
